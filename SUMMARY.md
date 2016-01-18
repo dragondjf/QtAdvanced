@@ -18,7 +18,7 @@
     * [Graphics View Framework常用类的使用](Qt之Graphics View Framework/Graphics View Framework常用类的使用.md)
 
 * [Qt之如何美化自己的程序](Qt之如何美化自己的程序/Qt之如何美化自己的程序.md)
-    * [Qt自绘的基础知识](Qt之如何美化自己的程序/Qt自绘的基础知识.md)
+    * [qss样式表的基础知识](Qt之如何美化自己的程序/qss样式表的基础知识.md)
     * [Qt自绘的基础知识](Qt之如何美化自己的程序/Qt自绘的基础知识.md)
 
 * [Qt之Animation Framework](Qt之Animation Framework/Qt之Animation Framework.md)
