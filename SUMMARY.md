@@ -1,7 +1,9 @@
 # Summary
 
-* [Qt之历史及未来](Qt之历史及未来/Qt之历史及未来.md)
+* [Qt之历史及未来](Qt之历史及未来/Qt的历史及未来.md)
+
 * [Qt之基础架构及各个模块简介](Qt之基础架构及各个模块简介/Qt之基础架构及各个模块简介.md)
+
 * [Qt之QWidget的基础知识](Qt之QWidget的基础知识/Qt之QWidget的基础知识.md)
     *  [Qt的基础控件分类](Qt之QWidget的基础知识/Qt的基础控件分类.md)
     *  [QPushButton和QLabel的使用](Qt之QWidget的基础知识/QPushButton和QLabel的使用.md)
@@ -10,14 +12,17 @@
     *  [QMainWindow的使用](Qt之QWidget的基础知识/QMainWindow的使用.md)
     *  [QTabWidget、QTaleWidget、QListWidget的使用](Qt之QWidget的基础知识/QTabWidget、QTaleWidget、QListWidget的使用.md)
     *  [QScrollArea的使用](Qt之QWidget的基础知识/QScrollArea的使用.md)
+
 * [Qt之Graphics View Framework](Qt之Graphics View Framework/Qt之Graphics View Framework.md)
     * [Graphics View Framework同QWidget的区别](Qt之Graphics View Framework/Graphics View Framework同QWidget的区别.md)
     * [Graphics View Framework常用类的使用](Qt之Graphics View Framework/Graphics View Framework常用类的使用.md)
+
 * [Qt之如何美化自己的程序](Qt之如何美化自己的程序/Qt之如何美化自己的程序.md)
     * [Qt自绘的基础知识](Qt之如何美化自己的程序/Qt自绘的基础知识.md)
     * [Qt自绘的基础知识](Qt之如何美化自己的程序/Qt自绘的基础知识.md)
+
 * [Qt之Animation Framework](Qt之Animation Framework/Qt之Animation Framework.md)
-    * [Animation基本类的使用](Qt之Animation Framework/Animation基本类的使用.md)
+    * [Animation基本类的简介](Qt之Animation Framework/Animation基本类的简介.md)
     * [State Machine使用](Qt之Animation Framework/State Machine使用.md)
    
 * [Qt之QObject深入认知](Qt之QObject深入认知/Qt之QObject深入认知.md)
@@ -25,6 +30,7 @@
     * [Signal与Slot的使用](Qt之QObject深入认知/Signal与Slot的使用.md)
     * [Eventloop的机制](Qt之QObject深入认知/Eventloop的机制.md)
     * [moc和元编程的基础知识](Qt之QObject深入认知/moc和元编程的基础知识.md)
+
 * [Qt之i18n国际化](Qt之i18n国际化/Qt之i18n国际化.md)
     *  [国际化的原理](Qt之i18n国际化/国际化的原理.md)
     *  [Qt提供的国际化工具的使用](Qt之i18n国际化/Qt提供的国际化工具的使用.md)
@@ -54,7 +60,8 @@
     * [innosetup、nsis或其他安装包工具的简介](Qt之项目打包发布/innosetup、nsis或其他安装包工具的简介.md)
 
 * [Qt之单元测试](Qt之单元测试/Qt之单元测试.md)
-    * [Qt之单元测试](Qt之单元测试/什么是单元测试.md]
+    * [Qt之单元测试](Qt之单元测试/什么是单元测试.md)
+    * [Qt之单元测试](Qt之单元测试/Qt中如何使用单元测试.md)
 
 * [Qt之开发模式](Qt之开发模式/Qt之开发模式.md)
     * [signalmanager开发模式简介](Qt之开发模式/signalmanager开发模式简介.md)
