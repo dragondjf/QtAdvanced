@@ -56,7 +56,7 @@ View层可以独立开发，与Controller层完全分离，所有需要接收数
 Controller层亦可独立开发，与 View层完全分离，所有需要发送数据的地方都通过SignalManager单例中的`数据信号`发送出去，所有需要执行槽
 函数的地方都与SignalManager单例的`动作信号`进行关联；
 
-得益于Qt信号与槽的强大，解耦View层和Controller层变得如此简单。
+得益于Qt信号与槽的强大，彻底解耦View层和Controller层变得如此简单。
 
 ![signalmanager](../images/signalmanager.png)
 
