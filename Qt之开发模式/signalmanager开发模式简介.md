@@ -1,7 +1,7 @@
 signalmanager开发模式简介
 =========================
 
-######1. 什么是MVC设计模式
+#####1. 什么是MVC设计模式
 
 经典的mvc模式，Model(模型)、View(视图)、Controller(控制)，这种开发模式常常应用在桌面客户端程序当中
 
@@ -13,11 +13,13 @@ signalmanager开发模式简介
 
 这三层是紧密联系在一起的，但又是互相独立的，每一层内部的变化不影响其他层。每一层都对外提供接口（Interface），供上面一层调用。这样一来，软件就可以实现模块化，修改外观或者变更数据都不用修改其他层，大大方便了维护和升级。
 
+难点就是View层和Controller层分离不彻底，耦合严重，出现接口调用混乱，逻辑混乱。
+
+那么如何才能彻底的分离View层和Controller层，模块独立开发，互不干扰？
 
 #####2. 什么是所谓的signalmanager模式
 
-这个是模式是我在qt开发中经常使用的一种模式，主要用于沟通MVC模式中View与Controller层。
-在Qt的程序中，View层一般在主线程MainThread中, Controller层可以出现在主线程，也可出现在其他线程中，这个时候view和contoller之间的通信可以使用一个signalmanager的全局实例来进行桥接， signalmanager类中只定义signal
+这个是模式是我在qt开发中经常使用的一种模式，主要用于解耦MVC模式中View层与Controller层。在Qt的程序中，View层一般在主线程MainThread中, Controller层可以出现在主线程，也可出现在其他线程中，这个时候view和contoller之间的通信可以使用一个signalmanager的全局实例来进行桥接， SignalManager类中只定义signal
 
 
         #ifndef SIGNALMANAGER_H
