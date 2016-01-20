@@ -51,16 +51,15 @@ signalmanager开发模式简介
 
 在实际编程中，如果程序规模相对较小，最好将SignalManager定义为一个全局单例；如果程序规模比较大, 可以根据contorller层的业务逻辑定义多个类似SignalManager的全局单例; 
 
-SignalManager主要定义两张信号，一种是`数据信号`，一种是`动作信号`；
+SignalManager主要定义两张信号，一种是`数据信号`，一种是`事件信号（V-C事件信号、C-V事件信号）`；
 
-View层可以独立开发，与Controller层完全分离，所有需要接收数据的地方通过SignalManager中`数据信号`与View层中对应的槽进行关联，所有需要发送消息的地方都通过SignalManager单例中的`动作信号`发送出去，无需与Controller层耦合，View层只需要负责与SignalManager单例进行沟通即可；
+View层可以独立开发，与Controller层完全分离，所有需要接收数据的地方通过SignalManager中`数据信号`与View层中对应的槽进行关联，所有需要发送消息的地方都通过SignalManager单例中的`V-C事件信号`发送出去，无需与Controller层耦合，View层只需要负责与SignalManager单例进行沟通即可；
 
 Controller层亦可独立开发，与 View层完全分离，所有需要发送数据的地方都通过SignalManager单例中的`数据信号`发送出去，所有需要执行槽
-函数的地方都与SignalManager单例的`动作信号`进行关联；
+函数的地方都与SignalManager单例的`C-V事件信号`进行关联；
 
 得益于Qt信号与槽的强大，彻底解耦View层和Controller层变得如此简单。
 
 ![signalmanager](../images/signalmanager.png)
 
 另外，如果遇到性能问题，需要将Controller层某些业务运行到另外一个线程中去，只需要稍微改动一点点代码，创建一个线程，将Controller层的**worker实例**通过`moveToThread`接口移动到线程中去，启动线程即可。
-
