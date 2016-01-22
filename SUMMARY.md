@@ -71,4 +71,4 @@
     *  [Qt中嵌入python，c++与python的完美融合--ffpython和QtPython](Qt之python情缘/Qt中嵌入python，c++与python的完美融合--ffpython和QtPython.md)
     *  [python中如何利用c和c++做扩展](Qt之python情缘/python中如何利用c和c++做扩展.md)
 
-* [Qt之优先开源软件](Qt之优先开源软件/Qt之优先开源软件.md)
+* [Qt之优秀开源软件](Qt之优秀开源软件/Qt之优秀开源软件.md)
