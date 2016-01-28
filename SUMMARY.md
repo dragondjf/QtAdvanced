@@ -29,7 +29,7 @@
     * [QObject是什么](Qt之QObject深入认知/QObject是什么.md)
     * [Signal与Slot的使用](Qt之QObject深入认知/Signal与Slot的使用.md)
     * [Eventloop的机制](Qt之QObject深入认知/Eventloop的机制.md)
-    * [moc和元编程的基础知识](Qt之QObject深入认知/moc和元编程的基础知识.md)
+    * [The Meta-Object System元对象系统](Qt之QObject深入认知/The Meta-Object System元对象系统.md)
 
 * [Qt之i18n国际化](Qt之i18n国际化/Qt之i18n国际化.md)
     *  [国际化的原理](Qt之i18n国际化/国际化的原理.md)
