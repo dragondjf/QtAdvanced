@@ -41,9 +41,9 @@ Qt advanced tour
    
 * [Qt之QObject深入认知](Qt之QObject深入认知/Qt之QObject深入认知.md)
     * [QObject是什么](Qt之QObject深入认知/QObject是什么.md) --- 丁江锋
-    * [Signal与Slot的使用](Qt之QObject深入认知/Signal与Slot的使用.md) --- 丁江锋
+    * [Signal与Slot的使用](Qt之QObject深入认知/Signal与Slot的使用.md) --- 丁江锋(完成)
     * [Eventloop的机制](Qt之QObject深入认知/Eventloop的机制.md) --- 石博文
-    * [moc和元编程的基础知识](Qt之QObject深入认知/moc和元编程的基础知识.md) -- 丁江锋
+    * [The Meta-Object System元对象系统](Qt之QObject深入认知/The Meta-Object System元对象系统.md) --- 丁江锋(完成)
 
 * [Qt之i18n国际化](Qt之i18n国际化/Qt之i18n国际化.md) --- 王耀华
     *  [国际化的原理](Qt之i18n国际化/国际化的原理.md) --- 王耀华
