@@ -78,7 +78,7 @@ Qt advanced tour
     * [Qt之单元测试](Qt之单元测试/Qt中如何使用单元测试.md)  -- 杨万青
 
 * [Qt之开发模式](Qt之开发模式/Qt之开发模式.md)
-    * [signalmanager开发模式简介](Qt之开发模式/signalmanager开发模式简介.md) --- 丁江锋
+    * [signalmanager开发模式简介](Qt之开发模式/signalmanager开发模式简介.md) --- 丁江锋(完成)
 
 * [Qt之python情缘](Qt之python情缘/Qt之python情缘.md)
     *  [如何使用pyqt5进行原型开发](Qt之python情缘/如何使用pyqt5进行原型开发.md)  -- 丁江锋
