@@ -51,7 +51,8 @@ Qt advanced tour
 
 * [Qt之QThread的使用](Qt之QThread的使用/Qt之QThread的使用.md) --- 丁江锋
     * [Qt中线程和普通线程的区别](Qt之QThread的使用/Qt中线程和普通线程的区别.md) -- 丁江锋
-    * [QThreadPool的使用](Qt之QThread的使用/QThreadPool的使用.md) -- 丁江锋(完成)
+    * [Qt中QThread的使用方式](Qt之QThread的使用/Qt中QThread的使用方式.md) --- 丁江锋(完成)
+    * [QThreadPool的使用](Qt之QThread的使用/QThreadPool的使用.md) -- 丁江锋
     * [Qt线程相关的并发类简介](Qt之QThread的使用/Qt线程相关的并发类简介.md) --- 丁江锋
 
 *  [Qt之DBus的使用](Qt之DBus的使用/Qt之DBus的使用.md)
