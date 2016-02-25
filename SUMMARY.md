@@ -36,6 +36,7 @@
     *  [Qt提供的国际化工具的使用](Qt之i18n国际化/Qt提供的国际化工具的使用.md)
 
 * [Qt之QThread的使用](Qt之QThread的使用/Qt之QThread的使用.md)
+    * [Qt中QThread的使用方式](Qt之QThread的使用/Qt中QThread的使用方式.md)
     * [Qt中线程和普通线程的区别](Qt之QThread的使用/Qt中线程和普通线程的区别.md)
     * [QThreadPool的使用](Qt之QThread的使用/QThreadPool的使用.md)
     * [Qt线程相关的并发类简介](Qt之QThread的使用/Qt线程相关的并发类简介.md)
