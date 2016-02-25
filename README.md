@@ -40,7 +40,7 @@ Qt advanced tour
     * [State Machine使用](Qt之Animation Framework/State Machine使用.md)
    
 * [Qt之QObject深入认知](Qt之QObject深入认知/Qt之QObject深入认知.md)
-    * [QObject是什么](Qt之QObject深入认知/QObject是什么.md) --- 丁江锋
+    * [QObject是什么](Qt之QObject深入认知/QObject是什么.md) --- 丁江锋(完成)
     * [Signal与Slot的使用](Qt之QObject深入认知/Signal与Slot的使用.md) --- 丁江锋(完成)
     * [Eventloop的机制](Qt之QObject深入认知/Eventloop的机制.md) --- 石博文
     * [The Meta-Object System元对象系统](Qt之QObject深入认知/The Meta-Object System元对象系统.md) --- 丁江锋(完成)
