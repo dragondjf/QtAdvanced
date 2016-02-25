@@ -74,8 +74,8 @@ Qt advanced tour
     * [innosetup、nsis或其他安装包工具的简介](Qt之项目打包发布/innosetup、nsis或其他安装包工具的简介.md)
 
 * [Qt之单元测试](Qt之单元测试/Qt之单元测试.md) --- 杨万青
-    * [Qt之单元测试](Qt之单元测试/什么是单元测试.md)  --- 杨万青
-    * [Qt之单元测试](Qt之单元测试/Qt中如何使用单元测试.md)  -- 杨万青
+    * [Qt之什么是单元测试](Qt之单元测试/什么是单元测试.md)  --- 杨万青
+    * [Qt之Qt中如何使用单元测试](Qt之单元测试/Qt中如何使用单元测试.md)  -- 杨万青
 
 * [Qt之开发模式](Qt之开发模式/Qt之开发模式.md)
     * [signalmanager开发模式简介](Qt之开发模式/signalmanager开发模式简介.md) --- 丁江锋(完成)
