@@ -61,6 +61,8 @@ Qt advanced tour
     * [Qt如何注册一个dbus服务](Qt之DBus的使用/Qt如何注册一个dbus服务.md)
     * [Qt中关于dbus的工具使用](Qt之DBus的使用/Qt中关于dbus的工具使用.md)
 
+* [Qt之插件机制](Qt之插件机制/Qt之插件机制.md)
+
 * [Qt之项目调试](Qt之项目调试/Qt之项目调试.md)
     *  [log日志调试之cutelogger的使用](Qt之项目调试/log日志调试之cutelogger的使用.md)
     *  [gammaRay的使用](Qt之项目调试/gammaRay的使用.md)
@@ -68,6 +70,7 @@ Qt advanced tour
 * [Qt之项目构建](Qt之项目构建/Qt之项目构建.md)
     * [makefile的基础知识](Qt之项目构建/makefile的基础知识.md)
     * [qmake的使用](Qt之项目构建/qmake的使用.md)
+    * [什么是pkg-config](Qt之项目构建/什么是pkg-config.md)
 
 * [Qt之项目打包发布](Qt之项目打包发布/Qt之项目打包发布.md)
     * [Qt installer framework简介](Qt之项目打包发布/Qt installer framework简介.md)
