@@ -9,7 +9,7 @@ Qt之插件机制
 ####2.高级API插件：拓展Qt自身
 
 |Base Class	|Directory Name	|Qt Module	|Key Case Sensitivity|
-| :-------- | --------:| :--: |
+| :-------- | --------:| :--: | :--: |
 |QAccessibleBridgePlugin|	`accessiblebridge`|	Qt GUI|	Case Sensitive|
 |QImageIOPlugin	|`imageformats`	|Qt GUI	|Case Sensitive|
 |QPictureFormatPlugin|	`pictureformats`|	Qt GUI	|Case Sensitive|
